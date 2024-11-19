@@ -18,3 +18,6 @@ const removeDuplicates = (strings) => {
 // Example usage:
 const strings = ["apple", "banana", "apple", "orange", "banana"];
 console.log(removeDuplicates(strings));
+
+// 1) Ensure you have Node.js installed
+// 2) Run the Compiled JavaScript File by running the following command: node script.js

@@ -25,3 +25,9 @@ const isValidEmail = (email: string): boolean => {
 // Example usage:
 console.log(isValidEmail("test@example.com")); // true
 console.log(isValidEmail("invalid-email")); // false
+
+// 1) Ensure you have Node.js installed
+// 2) Install TypeScript globally by running the following command in the terminal: npm install -g typescript
+// 3) Verify that TypeScript is installed by checking its version: tsc --version
+// 4) Run the TypeScript compiler to convert the product.ts file into a JavaScript file by running the following command: tsc product.ts
+// 5) Run the Compiled JavaScript File by running the following command: node product.js
